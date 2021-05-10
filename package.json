@@ -1,0 +1,19 @@
+{
+  "name": "simple-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pnv28/Simple-Calculator.git"
+  },
+  "author": "pnv28",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pnv28/Simple-Calculator/issues"
+  },
+  "homepage": "https://github.com/pnv28/Simple-Calculator#readme"
+}
