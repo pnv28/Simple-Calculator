@@ -19,5 +19,5 @@ Run the following command after that
 Finnaly to run it use
 >node main.js
 
-Please report Issue's at https://github.com/pnv28/Simple-Calculator/issues
+Please report Issue's at https://github.com/pnv28/Simple-Calculator/issues  
 Check out my Profile at https://github.com/pnv28
