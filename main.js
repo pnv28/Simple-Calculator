@@ -5,11 +5,12 @@ const rl = readline.createInterface({
     output: process.stdout
 });
 
-rl.question(`What is Num 1 : `, (num1) =>{
+console.log('\x1b[1m');
+console.log(`\n\nCalculator\nCan not calculate Exponents using ( ^ ) Operator, For exponents use ( ** )\nMade by pnv28`);
 
-    rl.question(`What is Num 2 : `, (num2) =>{
-        let var1 = parseFloat(num1), var2 = parseFloat(num2);
-        console.log(var1 + var2)
-    })
-
+rl.question(`\n\nPlease Input the Numerical: `, (n) =>{
+    let ans = eval(n);
+    console.log(`\nAns: `, ans);
+    console.log('\x1b[0m');
+    rl.close();
 })
