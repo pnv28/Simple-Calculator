@@ -1,6 +1,6 @@
 # Simple Calculator
 
-Hello Everyone, I like coding so I made this. 
+Hello Everyone, I like coding so I made this  
 To Calculate Exponent Value use the Operator ( ** )
 
 Below there are Instructions, telling how to Install this.
