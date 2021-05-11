@@ -6,7 +6,7 @@ const rl = readline.createInterface({
 });
 
 console.log('\x1b[1m');
-console.log(`\n\nCalculator\nCan not calculate Exponents using ( ^ ) Operator, For exponents use ( ** )\nMade by pnv28`);
+console.log(`\n\nCalculator\nCan not calculate Exponents using ( ^ ) Operator, For exponents use ( ** )\nUses BODMAS Rule\nMade by pnv28`);
 
 rl.question(`\n\nPlease Input the Numerical: `, (n) =>{
     let ans = eval(n);
